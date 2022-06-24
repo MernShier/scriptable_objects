@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62d47d608aafa444b8d1d51b8d4a315b, type: 3}
+  m_Name: Consumable_BigBluePotion
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 21300000, guid: 2ddf4dd89b0c17d4a81b1a660335dad6, type: 3}
+  itemType: 3
+  Name: Big Blue Potion
+  Cost: 1500
+  SpecialValue: 150
